@@ -1,1 +1,48 @@
 
+name: Update AS Lists
+
+on:
+
+  # 手动运行
+  workflow_dispatch:
+
+  # 每天运行一次
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+
+  update:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # 拉取仓库
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 安装bgpq4
+      - name: Install bgpq4
+        run: |
+          sudo apt update
+          sudo apt install -y bgpq4
+
+      # 执行更新脚本
+      - name: Update Lists
+        run: |
+          chmod +x scripts/update.sh
+          ./scripts/update.sh
+
+      # 提交更新
+      - name: Commit
+        run: |
+
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add .
+
+          git commit -m "Update AS List" || echo "No changes"
+
+          git push
