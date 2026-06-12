@@ -12675,7 +12675,6 @@ ip prefix-list NN permit 211.148.224.0/19
 ip prefix-list NN permit 211.151.0.0/16
 ip prefix-list NN permit 211.152.0.0/19
 ip prefix-list NN permit 211.152.64.0/18
-ip prefix-list NN permit 218.98.111.0/24
 ip prefix-list NN permit 218.200.0.0/13
 ip prefix-list NN permit 218.200.0.0/14
 ip prefix-list NN permit 218.200.0.0/16
