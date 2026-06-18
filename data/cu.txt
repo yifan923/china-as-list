@@ -458,7 +458,10 @@ ip prefix-list NN permit 101.125.250.0/23
 ip prefix-list NN permit 101.129.0.0/22
 ip prefix-list NN permit 101.198.196.0/22
 ip prefix-list NN permit 101.199.48.0/20
+ip prefix-list NN permit 101.199.48.0/21
+ip prefix-list NN permit 101.199.56.0/21
 ip prefix-list NN permit 101.199.196.0/22
+ip prefix-list NN permit 101.199.196.0/23
 ip prefix-list NN permit 101.199.198.0/23
 ip prefix-list NN permit 101.204.0.0/14
 ip prefix-list NN permit 101.251.144.0/20
