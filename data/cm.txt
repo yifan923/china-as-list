@@ -3521,6 +3521,7 @@ ip prefix-list NN permit 111.12.44.0/24
 ip prefix-list NN permit 111.12.45.0/24
 ip prefix-list NN permit 111.12.48.0/22
 ip prefix-list NN permit 111.12.48.0/24
+ip prefix-list NN permit 111.12.50.0/24
 ip prefix-list NN permit 111.12.51.0/24
 ip prefix-list NN permit 111.12.52.0/23
 ip prefix-list NN permit 111.12.56.0/23
