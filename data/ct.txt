@@ -105,7 +105,6 @@ ip prefix-list NN permit 36.109.197.0/24
 ip prefix-list NN permit 36.111.0.0/16
 ip prefix-list NN permit 36.111.72.0/21
 ip prefix-list NN permit 36.111.144.0/20
-ip prefix-list NN permit 36.112.13.0/24
 ip prefix-list NN permit 36.113.0.0/16
 ip prefix-list NN permit 36.114.0.0/16
 ip prefix-list NN permit 36.255.128.0/22
