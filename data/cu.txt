@@ -1716,6 +1716,8 @@ ip prefix-list NN permit 221.3.140.0/22
 ip prefix-list NN permit 221.3.192.0/22
 ip prefix-list NN permit 221.3.224.0/22
 ip prefix-list NN permit 221.3.240.0/22
+ip prefix-list NN permit 221.4.9.0/24
+ip prefix-list NN permit 221.4.66.0/24
 ip prefix-list NN permit 221.4.144.0/20
 ip prefix-list NN permit 221.4.160.0/20
 ip prefix-list NN permit 221.5.128.0/17
