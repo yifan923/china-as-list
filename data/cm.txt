@@ -9230,6 +9230,10 @@ ip prefix-list NN permit 120.210.176.0/24
 ip prefix-list NN permit 120.210.179.0/24
 ip prefix-list NN permit 120.210.188.0/22
 ip prefix-list NN permit 120.210.224.0/22
+ip prefix-list NN permit 120.210.248.0/24
+ip prefix-list NN permit 120.210.251.0/24
+ip prefix-list NN permit 120.210.253.0/24
+ip prefix-list NN permit 120.210.254.0/24
 ip prefix-list NN permit 120.220.0.0/23
 ip prefix-list NN permit 120.220.2.0/24
 ip prefix-list NN permit 120.220.4.0/22
