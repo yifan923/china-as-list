@@ -709,8 +709,6 @@ ip prefix-list NN permit 93.183.14.0/24
 ip prefix-list NN permit 93.183.18.0/24
 ip prefix-list NN permit 94.142.40.0/24
 ip prefix-list NN permit 101.36.64.0/20
-ip prefix-list NN permit 101.49.206.0/24
-ip prefix-list NN permit 101.49.207.0/24
 ip prefix-list NN permit 101.99.96.0/19
 ip prefix-list NN permit 101.102.64.0/19
 ip prefix-list NN permit 101.102.104.0/21
