@@ -1117,6 +1117,7 @@ ip prefix-list NN permit 119.62.56.0/22
 ip prefix-list NN permit 119.62.68.0/22
 ip prefix-list NN permit 119.62.100.0/22
 ip prefix-list NN permit 119.62.112.0/22
+ip prefix-list NN permit 119.62.124.0/22
 ip prefix-list NN permit 119.62.140.0/22
 ip prefix-list NN permit 119.62.156.0/22
 ip prefix-list NN permit 119.88.128.0/18
