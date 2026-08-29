@@ -1926,6 +1926,7 @@ ip prefix-list NN permit 36.184.0.0/16
 ip prefix-list NN permit 36.185.0.0/16
 ip prefix-list NN permit 36.186.0.0/16
 ip prefix-list NN permit 36.187.0.0/16
+ip prefix-list NN permit 36.187.254.0/23
 ip prefix-list NN permit 36.188.0.0/16
 ip prefix-list NN permit 36.189.0.0/16
 ip prefix-list NN permit 36.189.0.0/19
