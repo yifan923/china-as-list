@@ -365,6 +365,7 @@ ip prefix-list NN permit 60.10.252.0/24
 ip prefix-list NN permit 60.10.255.0/24
 ip prefix-list NN permit 60.11.0.0/16
 ip prefix-list NN permit 60.11.111.0/24
+ip prefix-list NN permit 60.11.141.0/24
 ip prefix-list NN permit 60.11.254.0/24
 ip prefix-list NN permit 60.12.0.0/16
 ip prefix-list NN permit 60.12.7.0/24
@@ -1943,6 +1944,7 @@ ip prefix-list NN permit 221.2.225.0/24
 ip prefix-list NN permit 221.2.235.0/24
 ip prefix-list NN permit 221.3.0.0/17
 ip prefix-list NN permit 221.3.128.0/17
+ip prefix-list NN permit 221.3.136.0/24
 ip prefix-list NN permit 221.3.140.0/22
 ip prefix-list NN permit 221.3.192.0/22
 ip prefix-list NN permit 221.3.224.0/22
