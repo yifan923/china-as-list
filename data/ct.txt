@@ -2281,6 +2281,8 @@ ip prefix-list NN permit 211.152.197.0/24
 ip prefix-list NN permit 211.152.208.0/21
 ip prefix-list NN permit 211.152.216.0/21
 ip prefix-list NN permit 211.152.224.0/19
+ip prefix-list NN permit 211.154.0.0/20
+ip prefix-list NN permit 211.154.10.0/23
 ip prefix-list NN permit 211.154.96.0/19
 ip prefix-list NN permit 211.155.16.0/20
 ip prefix-list NN permit 211.155.128.0/19
