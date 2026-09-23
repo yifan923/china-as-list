@@ -115,6 +115,7 @@ ip prefix-list NN permit 42.227.69.0/24
 ip prefix-list NN permit 42.228.2.0/24
 ip prefix-list NN permit 42.228.3.0/24
 ip prefix-list NN permit 42.228.4.0/24
+ip prefix-list NN permit 42.228.6.0/24
 ip prefix-list NN permit 42.228.7.0/24
 ip prefix-list NN permit 42.228.8.0/24
 ip prefix-list NN permit 42.228.9.0/24
