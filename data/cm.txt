@@ -9315,6 +9315,7 @@ ip prefix-list NN permit 120.221.96.0/19
 ip prefix-list NN permit 120.221.103.0/24
 ip prefix-list NN permit 120.221.128.0/18
 ip prefix-list NN permit 120.221.131.0/24
+ip prefix-list NN permit 120.221.139.0/24
 ip prefix-list NN permit 120.221.154.0/24
 ip prefix-list NN permit 120.221.158.0/24
 ip prefix-list NN permit 120.221.192.0/18
