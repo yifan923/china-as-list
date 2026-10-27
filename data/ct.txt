@@ -1034,7 +1034,6 @@ ip prefix-list NN permit 110.152.0.0/14
 ip prefix-list NN permit 110.154.34.0/24
 ip prefix-list NN permit 110.156.0.0/15
 ip prefix-list NN permit 110.166.0.0/15
-ip prefix-list NN permit 110.172.213.0/24
 ip prefix-list NN permit 110.173.8.0/21
 ip prefix-list NN permit 110.173.16.0/20
 ip prefix-list NN permit 110.176.0.0/13
@@ -1375,14 +1374,6 @@ ip prefix-list NN permit 118.254.33.0/24
 ip prefix-list NN permit 118.254.143.0/24
 ip prefix-list NN permit 118.254.210.0/24
 ip prefix-list NN permit 119.0.0.0/15
-ip prefix-list NN permit 119.18.192.0/24
-ip prefix-list NN permit 119.18.193.0/24
-ip prefix-list NN permit 119.18.194.0/24
-ip prefix-list NN permit 119.18.195.0/24
-ip prefix-list NN permit 119.18.196.0/24
-ip prefix-list NN permit 119.18.197.0/24
-ip prefix-list NN permit 119.18.198.0/24
-ip prefix-list NN permit 119.18.207.0/24
 ip prefix-list NN permit 119.18.208.0/21
 ip prefix-list NN permit 119.20.0.0/15
 ip prefix-list NN permit 119.37.192.0/21
@@ -1414,10 +1405,6 @@ ip prefix-list NN permit 119.135.176.0/20
 ip prefix-list NN permit 119.135.177.0/24
 ip prefix-list NN permit 119.135.184.0/21
 ip prefix-list NN permit 119.144.0.0/14
-ip prefix-list NN permit 119.161.168.0/24
-ip prefix-list NN permit 119.161.169.0/24
-ip prefix-list NN permit 119.161.170.0/24
-ip prefix-list NN permit 119.161.171.0/24
 ip prefix-list NN permit 119.235.146.0/24
 ip prefix-list NN permit 119.235.162.0/24
 ip prefix-list NN permit 120.31.66.0/24
