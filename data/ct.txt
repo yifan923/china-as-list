@@ -1395,6 +1395,7 @@ ip prefix-list NN permit 119.60.28.0/24
 ip prefix-list NN permit 119.60.44.0/24
 ip prefix-list NN permit 119.61.0.0/16
 ip prefix-list NN permit 119.80.240.0/22
+ip prefix-list NN permit 119.80.248.0/21
 ip prefix-list NN permit 119.84.0.0/14
 ip prefix-list NN permit 119.96.0.0/13
 ip prefix-list NN permit 119.97.219.0/24
