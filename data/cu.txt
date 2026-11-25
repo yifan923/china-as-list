@@ -1427,6 +1427,7 @@ ip prefix-list NN permit 180.223.0.0/17
 ip prefix-list NN permit 182.50.8.0/21
 ip prefix-list NN permit 182.54.0.0/17
 ip prefix-list NN permit 182.88.0.0/14
+ip prefix-list NN permit 182.90.226.0/24
 ip prefix-list NN permit 182.90.242.0/23
 ip prefix-list NN permit 182.112.0.0/12
 ip prefix-list NN permit 182.116.62.0/24
