@@ -8457,6 +8457,7 @@ ip prefix-list NN permit 120.193.220.0/24
 ip prefix-list NN permit 120.193.221.0/24
 ip prefix-list NN permit 120.193.222.0/24
 ip prefix-list NN permit 120.193.224.0/21
+ip prefix-list NN permit 120.193.226.0/24
 ip prefix-list NN permit 120.193.227.0/24
 ip prefix-list NN permit 120.193.228.0/24
 ip prefix-list NN permit 120.193.232.0/21
